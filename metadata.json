@@ -1,0 +1,6 @@
+{
+  "name": "HoTroMap - Bản Đồ Điểm Hỗ Trợ Cộng Đồng",
+  "description": "Nền tảng bản đồ số tra cứu và điều phối các điểm hỗ trợ cộng đồng, cứu trợ khẩn cấp, trạm y tế, thực phẩm và nhu yếu phẩm cứu trợ.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
